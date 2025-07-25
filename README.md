@@ -23,8 +23,7 @@
 **Backend**: Node.js  
 **Databases**: MySQL, Oracle  
 **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, Pillow, OpenCV, Tkinter  
-**Tools**: Git, GitHub, Postman  
-**Specialties**: Data Analysis, API Integration, Cyber Security, Networking Concepts  
+**Specialties**: Data Analysis, API Integration, Networking Concepts  
 
 ---
 
