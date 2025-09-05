@@ -29,24 +29,24 @@
 
 ## 📌 Projects
 
-### 🔐 HushImage - GUI
+### HushImage - GUI
 - Secure message hiding in images using **Python**, **Tkinter**, **MySQL**, and **SHA‑256**  
 - GUI-based tool with message logging and export to PDF/CSV  
 
-### 🚨 Online Crime Reporting System
+### Online Crime Reporting System
 - Platform to report cybercrime online  
 - User & admin interfaces, case tracking, status monitoring  
 
-### 📈 Sales Analytics Dashboard
+### Sales Analytics Dashboard
 - Performed EDA on 10K+ retail records  
 - Built insights on monthly trends, top regions, discount/profit correlation  
 
-### 🧠 Mental Health Companion *(WIP)*
+### Mental Health Companion *(WIP)*
 - An interactive platform to track mood, reflect with AI-powered journal prompts, and visualize mental wellness over time  
 - Gamified experience to encourage consistency & emotional engagement  
 - Built with **React.js** frontend, **Node.js** backend, and powered by the **Gemini API** for smart suggestions & analytics  
 
-### ✅ DoMate – Task Log List
+### DoMate – Task Log List
 - Interactive task manager built with **HTML, CSS, JavaScript**  
 - Features include adding, editing, deleting tasks, drag-and-drop ordering, priority levels, due dates, dark/light mode, and PDF/CSV import-export  
 - Tracks task progress with an interactive progress bar  
