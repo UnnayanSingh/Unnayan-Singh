@@ -9,10 +9,10 @@
 
 ## 🧠 About Me
 
-- 🎓 B.Tech in Computer Science and Engineering (Cyber Security) @ PSIT Kanpur (2022–2026)  
-- 🧑‍💻 Tech-savvy developer passionate about full stack development, automation, and secure cloud-native solutions  
-- 📊 Love analyzing data to extract insights and drive business decisions  
-- 🚀 Strong foundation in version control, agile collaboration, and modern tech stacks  
+- B.Tech in Computer Science and Engineering (Cyber Security) @ PSIT Kanpur (2022–2026)  
+- Tech-savvy developer passionate about full stack development, automation, and secure cloud-native solutions  
+- Love analyzing data to extract insights and drive business decisions  
+- Strong foundation in version control, agile collaboration, and modern tech stacks  
 
 ---
 
@@ -55,22 +55,21 @@
 ---
 
 ## 📜 Certifications
-
-- ✅ Full‑Stack Web Development Bootcamp – *Udemy*  
-- ✅ DBMS – *Infosys Springboard*  
-- ✅ Software Engineering Simulation – *Accenture (Forage)*  
-- ✅ Data Analytics Job Simulation – *Deloitte (Forage)*  
-- ✅ Data Visualization – *Tata Forage*  
-- ✅ Intro to Generative AI – *Google Cloud via Simplilearn*  
-- ✅ AWS Cloud Practitioner Essentials – *SkillUp*  
+- Full‑Stack Web Development Bootcamp – *Udemy*  
+- DBMS – *Infosys Springboard*  
+- Software Engineering Simulation – *Accenture (Forage)*  
+- Data Analytics Job Simulation – *Deloitte (Forage)*  
+- Data Visualization – *Tata Forage*  
+- Intro to Generative AI – *Google Cloud via Simplilearn*  
+- AWS Cloud Practitioner Essentials – *SkillUp*  
 
 ---
 
 ## 🏆 Achievements
 
-- ⭐ 4‑Star Coder in Problem Solving – *HackerRank*  
-- 🛡️ Cybersecurity Skills Certified – *Tech Mahindra*  
-- 👑 Agentblazer Champion 2025 – *Salesforce Trailhead (AI & Agentforce Skills)*  
+- 4‑Star Coder in Problem Solving – *HackerRank*  
+- Cybersecurity Skills Certified – *Tech Mahindra*  
+- Agentblazer Champion 2025 – *Salesforce Trailhead (AI & Agentforce Skills)*  
 
 ---
 
